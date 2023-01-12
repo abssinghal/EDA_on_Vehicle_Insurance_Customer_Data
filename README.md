@@ -31,8 +31,8 @@ ii. Column Name for customer_policy table:
 
            vintage and response. 
            
-           ![image](https://user-images.githubusercontent.com/78210738/212067000-56cfff6a-88dc-446c-8a9a-8a97ac85ee78.png)
-
+           
+![image](https://user-images.githubusercontent.com/78210738/212067000-56cfff6a-88dc-446c-8a9a-8a97ac85ee78.png)
 
 2. Checking and Cleaning Data Quality:
 
